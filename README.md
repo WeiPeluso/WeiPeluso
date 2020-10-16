@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Wei Peluso
 
-I am Wei Pelsuo.
 I am a full stack web developer with a computer science degree from Rutgers University-New Brunswick, and I am passionate about designing and developing web apps. I am eager to practice my knowledge and determination, turn information into action and bring ideas to real life.
 
 <!--
