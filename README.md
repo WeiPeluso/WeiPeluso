@@ -2,6 +2,10 @@
 
 I am a full stack web developer with a computer science degree from Rutgers University-New Brunswick, and I am passionate about designing and developing web apps. I am eager to practice my knowledge and determination, turn information into action and bring ideas to real life.
 
+Skills: Node / React / Express / JS / HTML / CSS
+
+- 📫 How to reach me: https://www.linkedin.com/in/weipeluso/
+
 <!--
 **WeiPeluso/WeiPeluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
